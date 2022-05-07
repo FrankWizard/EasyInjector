@@ -1,6 +1,6 @@
 # EasyInjector
  Easy assault cube injector for development
-> You need to put the DLL in the directory you're running the injector in.
+> You need to put the DLL in the directory you're running the injector in and name it cheat.dll
 ###### DISCLAIMER
 
 This project was made mainly for me.
